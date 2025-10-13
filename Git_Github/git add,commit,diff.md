@@ -1,12 +1,11 @@
 # git add,commit,diff
 
-복습 여부: No
 
 git 설치 후 
 
 폴더 하나 생성후 
 
-![image.png](git%20add,commit,diff%201807b486260f80be92ebf716a3c500b4/image.png)
+![image.png](./git%20add,commit,diff/image.png)
 
 git config —global user.email
 
@@ -63,7 +62,7 @@ h, j, k, l 방향키
 
 **Vim 에디터가 싫으면** 
 
-![image.png](git%20add,commit,diff%201807b486260f80be92ebf716a3c500b4/image%201.png)
+![image.png](./git%20add,commit,diff/image%201.png)
 
 요즘은 에디터에 부가 플러그인이 있음 
 

@@ -1,6 +1,5 @@
 # Git 꾸미는법
 
-복습 여부: No
 
 [https://github.com/rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 

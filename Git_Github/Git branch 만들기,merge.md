@@ -1,7 +1,5 @@
 # Git branch 만들기,merge
 
-복습 여부: No
-
 branch - 프로젝트 복사본 
 
 복사본에 개발 하고 머지(merge)하는 방식 
@@ -40,13 +38,13 @@ git merge 머지 할 브랜치 이름
 - **3-way merge**
     - 브랜치 마다 신규 commit 이 있는 경우 새로운 커밋을 하나 만들어서 merge
         
-        ![image.png](Git%20branch%20%EB%A7%8C%EB%93%A4%EA%B8%B0,merge%201817b486260f80aa9f0efa10c2af96d1/image.png)
+        ![image.png](./Git%20branch%20만들기/image.png)
         
 - **fast-forward merge**
     - main브랜치에 신규 커밋이 없을때
     - 딱히 합칠게 없어서 신규 브랜치 보고 main브랜치 라고 붙혀줌
     
-    ![image.png](Git%20branch%20%EB%A7%8C%EB%93%A4%EA%B8%B0,merge%201817b486260f80aa9f0efa10c2af96d1/image%201.png)
+    ![image.png](./Git%20branch%20만들기/image%201.png)
     
 
 자동으로 fast-forward 방식으로 발동 되기 싫으면 
@@ -72,7 +70,7 @@ git branch -d
 - 단점
     - 충돌 많이남
 
-![image.png](Git%20branch%20%EB%A7%8C%EB%93%A4%EA%B8%B0,merge%201817b486260f80aa9f0efa10c2af96d1/image%202.png)
+![image.png](./Git%20branch%20만들기/image%202.png)
 
 commit으로 옮겨주는 행위입니다.
 
@@ -96,4 +94,4 @@ git merge --squash 새 브랜치
 
 새 브랜치에 있던 코드변경사항들이 **main 브랜치로** 붙혀짐 
 
-![image.png](Git%20branch%20%EB%A7%8C%EB%93%A4%EA%B8%B0,merge%201817b486260f80aa9f0efa10c2af96d1/image%203.png)
+![image.png](./Git%20branch%20만들기/image%203.png)

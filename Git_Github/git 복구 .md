@@ -1,6 +1,5 @@
 # git 복구
 
-복습 여부: No
 
 많이 쓰지않음 
 
@@ -30,7 +29,7 @@ git restore --staged 파일명
 
 갑자기 과거 commit이 문제를 일으킬때 
 
-![image.png](git%20%EB%B3%B5%EA%B5%AC%201817b486260f80089c30e02e5a9fdc8c/image.png)
+![image.png](/Git_Github/git%20복구/image.png)
 
 여기서 d874b2b 을 커밋 취소 하고 싶을때 
 
