@@ -1,8 +1,9 @@
+![alt text](image.png)
 ## 들어가며
 REST API, Restful 이런 단어를 개발하다보면 무조건 듣게 되어있습니다. Restful 한 설계가 뭔지, Restful한 설계를 하면 뭐가좋은지 정리 하였습니다.
 
 ## REST
-![](https://velog.velcdn.com/images/dreamdp01/post/8755cdd3-4287-4338-9a71-c3dd6fe3d8bc/image.jpg)
+![alt text](image-1.png)
 
 **REST** 는 뭘까요? **REST(Representational State Transfer)**는 자원을 이름(URI)으로 구분하여 해당 자원의 상태(State)를 주고받는 모든 것을 의미합니다. 월드 와이드 웹(WWW)의 기존 기술과 HTTP 프로토콜을 그대로 활용하여 웹의 장점을 극대화하기 위해 제안된 아키텍처 스타일입니다.
 
@@ -28,8 +29,7 @@ REST API, Restful 이런 단어를 개발하다보면 무조건 듣게 되어있
 
 ---
 ## REST 설계원칙 6가지 
-![](https://velog.velcdn.com/images/dreamdp01/post/a8662f6f-4057-4b57-a16a-395d4b482b30/image.png)
-https://restfulapi.net/
+![alt text](image-2.png)
 REST 설게원칙 6가지는 위의 공식문서에서 보면 좋을것 같습니다.
 
 1. 균일한 인터페이스
@@ -40,10 +40,10 @@ REST 설게원칙 6가지는 위의 공식문서에서 보면 좋을것 같습�
 6. 주문형 코드 생성
 
 ## REST API/ RESTful?
-![](https://velog.velcdn.com/images/dreamdp01/post/1811e1c8-bd91-49a7-b174-9ee5fa4fe5a3/image.jpg)
+![alt text](image-3.png)
 
 그럼 REST API 가 뭘까요?  REST API 는 REST 설계원칙을 준수 하는 API입니다. 
-![](https://velog.velcdn.com/images/dreamdp01/post/82706054-3ee9-412f-aee3-7e61d9635235/image.png)
+![alt text](image.png)
 그럼 RESTful은 뭘까요? RESTful이란 REST의 원리를 따르는 시스템을 의미합니다.
 
 하지만 REST를 사용했다고 해서 모두가 RESTful 한 것은 아닙니다. REST API의 설계 규칙을 올바르게 지킨 시스템만이 비로소 RESTful하다고 할 수 있습니다.
